@@ -9,6 +9,14 @@
 
 sudo apt-get install vim # the hacker's Editor
 
+# screencast
+
+http://happypeter.org/happycasts/happyvim/
+
+
+
+
+
 
 
 # github remove a repo
