@@ -3,3 +3,10 @@
 
 sudo apt-get install vim # the hacker's Editor
 
+
+
+# github remove a repo
+
+    clashboard -> projectname (double click) > admine -> delete
+
+
