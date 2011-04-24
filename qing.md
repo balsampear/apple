@@ -6,7 +6,7 @@
 
 
 
-# __vim__
+# ___vim___
 
 
 ##  vim installation
@@ -43,7 +43,7 @@ Ctr-o: to go back
 
 
 
-# git
+# __git__
 
 
 
@@ -104,7 +104,7 @@ middle key: paste
 
 
 
-#misc
+# __misc__
 
 ### career
 
