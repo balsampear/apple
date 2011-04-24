@@ -10,3 +10,6 @@ sudo apt-get install vim # the hacker's Editor
     clashboard -> projectname (double click) > admine -> delete
 
 
+#    chinese input method 
+
+https://github.com/happypeter/job-akae/wiki
