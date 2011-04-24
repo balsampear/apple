@@ -14,13 +14,16 @@ sudo apt-get install vim # the hacker's Editor
 http://happypeter.org/happycasts/happyvim/
 
 
+#snipmate
 
+##check
+
+~/.vim/snippets/c.snippets
 
 
 
 
 # github remove a repo
-
     clashboard -> projectname (double click) > admine -> delete
 
 
