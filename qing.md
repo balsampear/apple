@@ -1,5 +1,40 @@
 
 
+#include <stdio.h>
+void main(void)
+{
+   int i , count=0 ;
+   for (i=1;i<=200;i++)
+   if( i%3!=0)
+   {
+     printf ("%8d",i);
+     count++;
+     if(count%8==0)
+    printf ("\n");
+   } 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # __markdown__
 
  http://happypeter.github.com/LGCB/book/toy_markdown.html
